@@ -1,0 +1,26 @@
+﻿ProductID,ProductName,Category,ListPrice_SAR,UnitCost_SAR,SourcingType
+P0001,Smartphone,Electronics,2211.62,1483.68,Imported
+P0002,Laptop,Electronics,3722.53,1737.46,Imported
+P0003,Headphones,Electronics,398.44,253.53,Local
+P0004,Smartwatch,Electronics,787.99,602.08,Imported
+P0005,Tablet,Electronics,1333.33,984.05,Local
+P0006,Coffee Maker,Home & Kitchen,367.76,273.05,Imported
+P0007,Blender,Home & Kitchen,218.57,142.66,Imported
+P0008,Air Fryer,Home & Kitchen,556.27,289.05,Local
+P0009,Vacuum Cleaner,Home & Kitchen,724.54,492.47,Imported
+P0010,Cookware Set,Home & Kitchen,497.05,237.01,Imported
+P0011,Sneakers,Fashion,359.29,217.55,Local
+P0012,T-Shirt,Fashion,79.11,42.59,Local
+P0013,Jeans,Fashion,199.84,97.81,Imported
+P0014,Handbag,Fashion,254.49,179.98,Local
+P0015,Jacket,Fashion,328.17,194.38,Local
+P0016,Skincare Set,Beauty,249.52,135.31,Imported
+P0017,Perfume,Beauty,313.51,169.01,Imported
+P0018,Hair Dryer,Beauty,200.88,130.62,Imported
+P0019,Makeup Kit,Beauty,172.32,117.2,Local
+P0020,Sunscreen,Beauty,82.26,36.81,Imported
+P0021,Running Shoes,Sports,412.75,223.72,Imported
+P0022,Yoga Mat,Sports,103.69,49.34,Imported
+P0023,Dumbbells,Sports,162.16,115.1,Local
+P0024,Fitness Tracker,Sports,434.09,204.31,Imported
+P0025,Sports Bottle,Sports,59.03,30.44,Imported

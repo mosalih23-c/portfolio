@@ -1,0 +1,11 @@
+﻿StoreID,StoreName,City,Region,StoreType,OpeningDate
+S001,Riyadh North,Riyadh,Central,Mall,2018-03-01
+S002,Riyadh South,Riyadh,Central,High Street,2020-07-15
+S003,Jeddah Mall,Jeddah,Western,Mall,2017-05-20
+S004,Jeddah Corniche,Jeddah,Western,High Street,2021-02-01
+S005,Dammam Central,Dammam,Eastern,High Street,2019-09-10
+S006,Khobar Mall,Khobar,Eastern,Mall,2022-04-12
+S007,Makkah Centre,Makkah,Western,Mall,2016-11-01
+S008,Madinah Centre,Madinah,Western,High Street,2019-01-15
+S009,Abha Plaza,Abha,Southern,Mall,2023-06-01
+S010,Tabuk Gate,Tabuk,Northern,Mall,2022-10-10

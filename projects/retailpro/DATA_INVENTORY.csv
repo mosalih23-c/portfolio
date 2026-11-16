@@ -1,0 +1,7 @@
+﻿File,Rows,Columns
+Sales_Raw.csv,15000,11
+Customers.csv,1200,8
+Products.csv,25,6
+Stores.csv,10,6
+Returns.csv,675,6
+Monthly_Targets.csv,240,3
